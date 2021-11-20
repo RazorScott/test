@@ -1,0 +1,3 @@
+0
+// gate runway N/E/W/S road list
+// e.g.  1 R09 W J/A/R09 

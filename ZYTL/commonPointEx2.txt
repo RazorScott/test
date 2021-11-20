@@ -1,0 +1,5 @@
+4
+A D PDAl PDAr PADm 
+A E PAEl PAEr PAEm
+A F PAFl PAFr PAFm
+A G PAGl PAGr PAGm
